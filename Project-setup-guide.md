@@ -43,7 +43,7 @@ React native creates native iOS and Android components. We recommend using the s
 ## Project API Keys
 The project requires a variety of API keys to compile. Please review the API keys document](https://drive.google.com/drive/u/1/folders/1VmZTl-kZHcWAjKdJSch-ekyidG8jaRLB) to add the required info. 
 
-## Package Buidling
+## Package Building
 Yarn is used to manage javascript packages for the project. Please follow the steps below to install dependencies. 
 
 1. Install yarn (If yarn is not installed): 
