@@ -12,6 +12,9 @@
 
 ## Setup
 
+### Short Instructions
+Life is too short! I created a [project setup guide](Project-setup-guide.md) with short instructions to setup your system :) I hope it helps! 
+
 ### General
 
 - Install NVM or Node.js 14: https://github.com/creationix/nvm
