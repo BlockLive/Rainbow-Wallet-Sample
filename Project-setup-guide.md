@@ -61,7 +61,7 @@ The project requires a variety of API keys to compile. Please review the [API ke
 Yarn is used to manage javascript packages for the project. Please follow the steps below to install dependencies. 
 
 1. Install Yarn (If yarn is not installed): 
- ```shell
+   ```shell
    brew install yarn
    ```
 2. Install all project dependencies with `yarn setup`
