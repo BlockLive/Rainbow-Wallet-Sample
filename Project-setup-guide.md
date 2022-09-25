@@ -2,7 +2,10 @@
 
 ## Node
 The project dependencies require a specific version of Node. We recommend using NVM to manage the node version we want to use in the project. 
-1. touch ~/.zshrc (Mac only)
+1. Create zshrc file for **Mac only** (If it doesn't exist):
+   ```shell
+   touch ~/.zshrc
+   ```
 2. Install nvm:
     ```shell
    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
