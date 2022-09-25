@@ -8,8 +8,15 @@ The project dependencies require a specific version of Node. We recommend using 
    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
    ```
 
-3. nvm install 16.17.0
-4. nvm use 16.17.0
+3. Install node 16.17.0:
+    ```shell
+   nvm install 16.17.0
+   ```
+
+4. Use node 16.17.0:
+    ```shell
+   nvm use 16.17.0
+   ```
 
 Please review the [NVM github page](https://github.com/creationix/nvm) for more info. 
 
@@ -31,7 +38,7 @@ React native creates native iOS and Android components. We recommend using the s
    ```shell
    sudo gem install cocoapods
    ```
-3. Install bundler:
+3. Install Bundler:
 
    ```shell
    sudo gem install bundler:2.2.31
@@ -50,12 +57,12 @@ The project requires a variety of API keys to compile. Please review the [API ke
 ## Package Building
 Yarn is used to manage javascript packages for the project. Please follow the steps below to install dependencies. 
 
-1. Install yarn (If yarn is not installed): 
+1. Install Yarn (If yarn is not installed): 
  ```shell
    brew install yarn
    ```
 2. Install all project dependencies with `yarn setup`
-3. Install the required bundles and Pods for this project (Mac only):
+3. Install the required bundles and pods for this project (Mac only):
    ```shell
    yarn install-bundle && yarn install-pods
    ```
